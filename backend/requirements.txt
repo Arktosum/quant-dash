@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+pandas
+scikit-learn
+requests
+python-dotenv
+xgboost
